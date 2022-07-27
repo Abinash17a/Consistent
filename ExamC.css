@@ -2,7 +2,7 @@
 .title{
     width: 100%;
     min-height: 200vh;
-   background-image:linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(pr.jpg);
+   background-image:linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(wp3493593-black-space-wallpaper-hd.jpg);
    background-position: center;
    background-size: cover;
    position: relative;  
@@ -11,10 +11,10 @@
 width: 55%;
 }
 .head{
-    color: white;
+    color: #ff4400;
 }
 .aandi{
-    color: white;
+    color: #ff4400;
 }
 .row{
     padding-top:  10% ;
@@ -22,13 +22,14 @@ width: 55%;
 #nav{
     padding: 10%;
     font-weight: 600;
-    padding-left:100px;
-    padding-right:100px;
+    padding-left:50px;
+    padding-right:50px;
     font-size:1.5rem ;
 }
 a.navbar-brand{
     font-size: xx-large;
     font-family: 'Monoton', cursive;
+    color: #ff4400;
 }
 #crc{
     font-size: 1rem;
@@ -80,4 +81,13 @@ a.navbar-brand{
 }
 .Ft{
     padding: 2%;
+}
+.panels{
+    color: aliceblue;
+    padding-top:7% ;
+}
+
+/* lower section */
+#id{
+    background-image: url(https://assets.telegraphindia.com/telegraph/2021/Dec/1640601906_resized1.jpg);
 }
