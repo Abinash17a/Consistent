@@ -22,8 +22,8 @@ width: 55%;
 #nav{
     padding: 10%;
     font-weight: 600;
-    padding-left:50px;
-    padding-right:50px;
+    padding-left:10px;
+    padding-right:10px;
     font-size:1.5rem ;
 }
 a.navbar-brand{
